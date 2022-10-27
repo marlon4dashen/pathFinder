@@ -1,6 +1,6 @@
 # pathFinder
 
-A pathfinding algorithm visulization application built with JavaFX and JavaSwing in Eclipse.
+A pathfinding algorithm visualization application built with JavaFX and JavaSwing in Eclipse.
 
 ## Pre-req
 
